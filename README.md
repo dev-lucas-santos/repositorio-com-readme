@@ -9,4 +9,4 @@ Primeiro projeto sozinho e que é inicial , mas que vai ser atualizado conforme 
 - HTML
 - CSS
 ## intenção do projeto 
-testar meus apresdizados no mundo real , em projetos que relmente mude a vida das pessoas e que tenha uma boa utilidade e que seja bonito e de simples visualição
+testar meus aprendizados e aplicar no mundo real , em projetos que relmente mude a vida das pessoas e que tenha uma boa utilidade e que seja bonito e de simples visualição
